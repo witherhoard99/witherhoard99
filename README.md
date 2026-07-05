@@ -1,4 +1,13 @@
-## Hi there 👋
+Hello! I do website development and ML.
+
+Experience:
+- C++
+- Python
+- NextJS
+- React
+- TailwindCSS
+- NodeJS
+
 
 <!--
 **witherhoard99/witherhoard99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
