@@ -1,6 +1,8 @@
 Hello! I do website development and ML.
 
 Experience:
+- PyTorch
+- RL & Model Based Reinforcement Learning
 - C++
 - Python
 - NextJS
